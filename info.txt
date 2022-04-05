@@ -1,0 +1,2 @@
+Name=srikanth
+Registration no=12345
